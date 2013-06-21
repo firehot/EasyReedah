@@ -12,7 +12,7 @@
 package com.pursuer.reader.easyrss.network.url;
 
 public class LoginURL extends AbsURL {
-    private static final String URL_API_LOGIN = "www.google.com/accounts/ClientLogin";
+    private static final String URL_API_LOGIN = "www.reedah.com"; /* "www.google.com/accounts/ClientLogin"
 
     private transient String username;
     private transient String password;

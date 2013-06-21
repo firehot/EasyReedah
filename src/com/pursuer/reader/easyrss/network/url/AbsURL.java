@@ -20,7 +20,7 @@ import org.apache.http.message.BasicNameValuePair;
 import android.net.Uri;
 
 public abstract class AbsURL {
-    protected static final String URL_GOOGLE_READER_BASE = "www.google.com/reader";
+    protected static final String URL_GOOGLE_READER_BASE = "www.reedah.com/reader";
     protected static final String URL_GOOGLE_READER_API = URL_GOOGLE_READER_BASE + "/api/0";
 
     protected static String appendParams(final String str, final String param) {
